@@ -1,0 +1,14 @@
+.Login {
+    padding: 60px 0;
+}
+
+.Login Form {
+    margin: 0 auto;
+    max-width: 320px;
+}
+
+.RegisterHeader, .LoginHeader {
+    margin: 0 auto;
+    max-width: 320px;
+    padding: 0 0 20px;
+}

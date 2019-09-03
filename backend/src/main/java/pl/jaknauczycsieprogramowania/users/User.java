@@ -1,8 +1,10 @@
-package pl.jaknauczycsieprogramowania;
+package pl.jaknauczycsieprogramowania.users;
 
 import lombok.*;
 
 import javax.persistence.*;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "users")
